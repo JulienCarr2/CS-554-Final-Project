@@ -1,0 +1,170 @@
+#root {
+	margin: 0;
+	text-align: center;
+}
+.App {
+	position: absolute;
+	height: 100vh;
+	width: 100%;
+}
+
+.logout-button {
+	float: right;
+	margin: 1.5%;
+	font-size: 25px;
+}
+
+.testing {
+	margin-top: 30%;
+	background-color: brown;
+	z-index: 9;
+}
+
+.profile {
+	margin-top: 120px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	color: black;
+	width: fit-content;
+	padding: 5%;
+	border-radius: 12px;
+}
+
+.teams-div {
+	margin-top: 120px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+.team-button {
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	font-size: 100px;
+	display: block;
+	width: 80%;
+	white-space: nowrap;
+	overflow-x: hidden;
+	background-color: red;
+	border-radius: 20px;
+	border: 0;
+}
+
+.team-button:hover {
+	cursor: grab;
+	opacity: 50%;
+}
+
+.create-team-button {
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	font-size: 80px;
+	display: block;
+	width: 80%;
+	white-space: nowrap;
+	overflow-x: hidden;
+	background-color: rgb(0, 0, 0);
+	border-radius: 20px;
+	border: 0;
+}
+
+.team-details-div {
+	margin-top: 120px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	color: black;
+	width: fit-content;
+	max-width: 80%;
+	padding: 5%;
+	border-radius: 12px;
+}
+.team-details-text {
+	background-color: lightgrey;
+	border-radius: 12px;
+}
+
+.projects-div {
+	margin-top: 120px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	color: black;
+	max-width: 80%;
+	border-radius: 12px;
+}
+
+.filter-div {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: blue;
+	max-width: 80%;
+}
+.filterItem {
+	font-size: x-large;
+	margin: 2%;
+	background-color: white;
+}
+
+.project-button {
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	font-size: 40px;
+	display: block;
+	width: 80%;
+	white-space: nowrap;
+	overflow-x: hidden;
+	background-color: red;
+	border-radius: 20px;
+	border: 0;
+}
+
+.project-button:hover {
+	cursor: grab;
+	opacity: 50%;
+}
+
+.project-info {
+	margin: 2%;
+}
+
+.task-details-div {
+	position: relative;
+	margin-top: 120px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	color: black;
+	width: fit-content;
+	max-width: 80%;
+	padding: 5%;
+	border-radius: 12px;
+}
+.task-details-text {
+	background-color: lightgrey;
+	border-radius: 12px;
+}

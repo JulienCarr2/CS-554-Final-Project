@@ -1,0 +1,25 @@
+{
+  "hash": "023a0b16",
+  "configHash": "9dafabb4",
+  "lockfileHash": "803a00f7",
+  "browserHash": "2132b330",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "2d08f8b7",
+      "needsInterop": true
+    },
+    "@apollo/client": {
+      "src": "../../node_modules/@apollo/client/index.js",
+      "file": "@apollo_client.js",
+      "fileHash": "d0bd0b55",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-XSC2MCPN": {
+      "file": "chunk-XSC2MCPN.js"
+    }
+  }
+}
